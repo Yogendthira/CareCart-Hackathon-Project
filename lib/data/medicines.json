@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "Dolo 650 Tablet",
+    "details": "Paracetamol 650mg",
+    "price": 32,
+    "quantity_per_pack": 15,
+    "category": "Pain Relief & Fever",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "name": "Crocin Advance Tablet",
+    "details": "Paracetamol 500mg",
+    "price": 15,
+    "quantity_per_pack": 15,
+    "category": "Pain Relief & Fever",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "name": "Combiflam Tablet",
+    "details": "Ibuprofen + Paracetamol",
+    "price": 45,
+    "quantity_per_pack": 20,
+    "category": "Pain Relief & Fever",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "name": "Zerodol-SP Tablet",
+    "details": "Aceclofenac + Serratiopeptidase + Paracetamol",
+    "price": 115,
+    "quantity_per_pack": 10,
+    "category": "Pain Relief & Fever",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "name": "Saridon Tablet",
+    "details": "Pain Relief",
+    "price": 42,
+    "quantity_per_pack": 10,
+    "category": "Pain Relief & Fever",
+    "image": ""
+  },
+  {
+    "id": 6,
+    "name": "Meftal-Spas Tablet",
+    "details": "Dicyclomine + Mefenamic Acid",
+    "price": 50,
+    "quantity_per_pack": 10,
+    "category": "Pain Relief & Fever",
+    "image": ""
+  },
+  {
+    "id": 7,
+    "name": "Disprin Tablet",
+    "details": "Aspirin 325mg",
+    "price": 12,
+    "quantity_per_pack": 10,
+    "category": "Pain Relief & Fever",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "name": "Brufen 400 Tablet",
+    "details": "Ibuprofen",
+    "price": 18,
+    "quantity_per_pack": 15,
+    "category": "Pain Relief & Fever",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "name": "Voveran SR 100mg Tablet",
+    "details": "Diclofenac",
+    "price": 180,
+    "quantity_per_pack": 15,
+    "category": "Pain Relief & Fever",
+    "image": ""
+  },
+  {
+    "id": 10,
+    "name": "Analgin 500mg Tablet",
+    "details": "Analgesic",
+    "price": 12,
+    "quantity_per_pack": 10,
+    "category": "Pain Relief & Fever",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "name": "Pan 40 Tablet",
+    "details": "Pantoprazole",
+    "price": 155,
+    "quantity_per_pack": 15,
+    "category": "Acidity, Gas & Digestion",
+    "image": ""
+  },
+  {
+    "id": 12,
+    "name": "Pantocid DSR Capsule",
+    "details": "Pantoprazole + Domperidone",
+    "price": 230,
+    "quantity_per_pack": 15,
+    "category": "Acidity, Gas & Digestion",
+    "image": ""
+  },
+  {
+    "id": 13,
+    "name": "Gelusil MPS Liquid",
+    "details": "Antacid Syrup",
+    "price": 130,
+    "quantity_per_pack": 1,
+    "category": "Acidity, Gas & Digestion",
+    "image": ""
+  },
+  {
+    "id": 14,
+    "name": "Digene Acidity Relief Tablet",
+    "details": "Antacid",
+    "price": 22,
+    "quantity_per_pack": 15,
+    "category": "Acidity, Gas & Digestion",
+    "image": ""
+  },
+  {
+    "id": 15,
+    "name": "Eno Fruit Salt Sachet",
+    "details": "Antacid",
+    "price": 9,
+    "quantity_per_pack": 1,
+    "category": "Acidity, Gas & Digestion",
+    "image": ""
+  },
+  {
+    "id": 16,
+    "name": "Rantac 150mg Tablet",
+    "details": "Ranitidine / Alternatives",
+    "price": 35,
+    "quantity_per_pack": 30,
+    "category": "Acidity, Gas & Digestion",
+    "image": ""
+  },
+  {
+    "id": 17,
+    "name": "Unienzyme Tablet",
+    "details": "Digestive Enzyme",
+    "price": 70,
+    "quantity_per_pack": 15,
+    "category": "Acidity, Gas & Digestion",
+    "image": ""
+  },
+  {
+    "id": 18,
+    "name": "Sporlac DS Tablet",
+    "details": "Probiotic",
+    "price": 120,
+    "quantity_per_pack": 10,
+    "category": "Acidity, Gas & Digestion",
+    "image": ""
+  },
+  {
+    "id": 19,
+    "name": "Dulcolax 5mg Tablet",
+    "details": "Bisacodyl Laxative",
+    "price": 15,
+    "quantity_per_pack": 10,
+    "category": "Acidity, Gas & Digestion",
+    "image": ""
+  },
+  {
+    "id": 20,
+    "name": "Cremaffin Syrup",
+    "details": "Laxative",
+    "price": 260,
+    "quantity_per_pack": 1,
+    "category": "Acidity, Gas & Digestion",
+    "image": ""
+  },
+  {
+    "id": 21,
+    "name": "Ceticip / Cetzine 10mg Tablet",
+    "details": "Cetirizine",
+    "price": 20,
+    "quantity_per_pack": 10,
+    "category": "Cold, Cough, Allergies & Immunity",
+    "image": ""
+  },
+  {
+    "id": 22,
+    "name": "Allegra 120mg Tablet",
+    "details": "Fexofenadine",
+    "price": 210,
+    "quantity_per_pack": 10,
+    "category": "Cold, Cough, Allergies & Immunity",
+    "image": ""
+  },
+  {
+    "id": 23,
+    "name": "Montek LC Tablet",
+    "details": "Montelukast + Levocetirizine",
+    "price": 170,
+    "quantity_per_pack": 10,
+    "category": "Cold, Cough, Allergies & Immunity",
+    "image": ""
+  },
+  {
+    "id": 24,
+    "name": "Ascoril LS Syrup",
+    "details": "Cough Syrup",
+    "price": 130,
+    "quantity_per_pack": 1,
+    "category": "Cold, Cough, Allergies & Immunity",
+    "image": ""
+  },
+  {
+    "id": 25,
+    "name": "Benadryl Cough Syrup",
+    "details": "Cough Syrup",
+    "price": 140,
+    "quantity_per_pack": 1,
+    "category": "Cold, Cough, Allergies & Immunity",
+    "image": ""
+  },
+  {
+    "id": 26,
+    "name": "Otrivin Adult Nasal Drops",
+    "details": "Nasal Decongestant",
+    "price": 110,
+    "quantity_per_pack": 1,
+    "category": "Cold, Cough, Allergies & Immunity",
+    "image": ""
+  },
+  {
+    "id": 27,
+    "name": "Sinarest New Tablet",
+    "details": "Cold & Flu",
+    "price": 75,
+    "quantity_per_pack": 15,
+    "category": "Cold, Cough, Allergies & Immunity",
+    "image": ""
+  },
+  {
+    "id": 28,
+    "name": "Alex Cough Syrup",
+    "details": "Cough Syrup",
+    "price": 135,
+    "quantity_per_pack": 1,
+    "category": "Cold, Cough, Allergies & Immunity",
+    "image": ""
+  },
+  {
+    "id": 29,
+    "name": "Cheston Cold Tablet",
+    "details": "Cold & Flu",
+    "price": 45,
+    "quantity_per_pack": 10,
+    "category": "Cold, Cough, Allergies & Immunity",
+    "image": ""
+  },
+  {
+    "id": 30,
+    "name": "Limcee 500mg",
+    "details": "Vitamin C Chewable",
+    "price": 25,
+    "quantity_per_pack": 15,
+    "category": "Cold, Cough, Allergies & Immunity",
+    "image": ""
+  },
+  {
+    "id": 31,
+    "name": "Augmentin 625 Duo Tablet",
+    "details": "Amoxicillin + Clavulanic Acid",
+    "price": 200,
+    "quantity_per_pack": 10,
+    "category": "Antibiotics & Anti-infectives",
+    "image": ""
+  },
+  {
+    "id": 32,
+    "name": "Azithral 500mg Tablet",
+    "details": "Azithromycin",
+    "price": 130,
+    "quantity_per_pack": 5,
+    "category": "Antibiotics & Anti-infectives",
+    "image": ""
+  },
+  {
+    "id": 33,
+    "name": "Taxim-O 200mg Tablet",
+    "details": "Cefixime",
+    "price": 115,
+    "quantity_per_pack": 10,
+    "category": "Antibiotics & Anti-infectives",
+    "image": ""
+  },
+  {
+    "id": 34,
+    "name": "Ciplox 500mg Tablet",
+    "details": "Ciprofloxacin",
+    "price": 45,
+    "quantity_per_pack": 10,
+    "category": "Antibiotics & Anti-infectives",
+    "image": ""
+  },
+  {
+    "id": 35,
+    "name": "Flagyl 400mg Tablet",
+    "details": "Metronidazole",
+    "price": 22,
+    "quantity_per_pack": 15,
+    "category": "Antibiotics & Anti-infectives",
+    "image": ""
+  },
+  {
+    "id": 36,
+    "name": "Norflox TZ Tablet",
+    "details": "Norfloxacin + Tinidazole",
+    "price": 105,
+    "quantity_per_pack": 10,
+    "category": "Antibiotics & Anti-infectives",
+    "image": ""
+  },
+  {
+    "id": 37,
+    "name": "Oflox 200mg Tablet",
+    "details": "Ofloxacin",
+    "price": 70,
+    "quantity_per_pack": 10,
+    "category": "Antibiotics & Anti-infectives",
+    "image": ""
+  },
+  {
+    "id": 38,
+    "name": "Fluconazole 150mg Tablet",
+    "details": "For Fungal Infections",
+    "price": 15,
+    "quantity_per_pack": 1,
+    "category": "Antibiotics & Anti-infectives",
+    "image": ""
+  },
+  {
+    "id": 39,
+    "name": "Becosules Capsule",
+    "details": "Vitamin B-Complex + C",
+    "price": 50,
+    "quantity_per_pack": 20,
+    "category": "Vitamins, Minerals & Daily Supplements",
+    "image": ""
+  },
+  {
+    "id": 40,
+    "name": "Neurobion Forte Tablet",
+    "details": "Vitamin B Compound",
+    "price": 40,
+    "quantity_per_pack": 30,
+    "category": "Vitamins, Minerals & Daily Supplements",
+    "image": ""
+  },
+  {
+    "id": 41,
+    "name": "Shelcal 500 Tablet",
+    "details": "Calcium + Vitamin D3",
+    "price": 130,
+    "quantity_per_pack": 15,
+    "category": "Vitamins, Minerals & Daily Supplements",
+    "image": ""
+  },
+  {
+    "id": 42,
+    "name": "Evion 400mg Capsule",
+    "details": "Vitamin E",
+    "price": 38,
+    "quantity_per_pack": 10,
+    "category": "Vitamins, Minerals & Daily Supplements",
+    "image": ""
+  },
+  {
+    "id": 43,
+    "name": "Zincovit Tablet",
+    "details": "Multivitamin & Minerals",
+    "price": 110,
+    "quantity_per_pack": 15,
+    "category": "Vitamins, Minerals & Daily Supplements",
+    "image": ""
+  },
+  {
+    "id": 44,
+    "name": "Calcirol 60,000 IU Sachet",
+    "details": "Vitamin D3",
+    "price": 60,
+    "quantity_per_pack": 1,
+    "category": "Vitamins, Minerals & Daily Supplements",
+    "image": ""
+  },
+  {
+    "id": 45,
+    "name": "Amlokind 5mg Tablet",
+    "details": "Amlodipine for BP",
+    "price": 18,
+    "quantity_per_pack": 15,
+    "category": "Cardiovascular, Diabetes & General Health",
+    "image": ""
+  },
+  {
+    "id": 46,
+    "name": "Telmikind 40mg Tablet",
+    "details": "Telmisartan for BP",
+    "price": 55,
+    "quantity_per_pack": 10,
+    "category": "Cardiovascular, Diabetes & General Health",
+    "image": ""
+  },
+  {
+    "id": 47,
+    "name": "Glycomet 500mg Tablet",
+    "details": "Metformin for Diabetes",
+    "price": 32,
+    "quantity_per_pack": 20,
+    "category": "Cardiovascular, Diabetes & General Health",
+    "image": ""
+  },
+  {
+    "id": 48,
+    "name": "Atorva 10mg Tablet",
+    "details": "Atorvastatin for Cholesterol",
+    "price": 100,
+    "quantity_per_pack": 15,
+    "category": "Cardiovascular, Diabetes & General Health",
+    "image": ""
+  },
+  {
+    "id": 49,
+    "name": "Electral ORS Powder",
+    "details": "Electrolyte Replacement",
+    "price": 22,
+    "quantity_per_pack": 1,
+    "category": "Cardiovascular, Diabetes & General Health",
+    "image": ""
+  },
+  {
+    "id": 50,
+    "name": "Beta-Nicardia Tablet",
+    "details": "Nifedipine + Atenolol",
+    "price": 95,
+    "quantity_per_pack": 15,
+    "category": "Cardiovascular, Diabetes & General Health",
+    "image": ""
+  }
+]

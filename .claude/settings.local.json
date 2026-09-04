@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(flutter clean *)",
+      "PowerShell(flutter pub *)",
+      "PowerShell(flutter build *)",
+      "PowerShell(Get-Process *)",
+      "PowerShell(& D:\\\\Android\\\\sdk\\\\platform-tools\\\\adb.exe kill-server)",
+      "PowerShell(& D:\\\\Android\\\\sdk\\\\platform-tools\\\\adb.exe start-server)",
+      "PowerShell(& D:\\\\Android\\\\sdk\\\\platform-tools\\\\adb.exe devices)",
+      "PowerShell(flutter run *)",
+      "PowerShell(& D:\\\\Android\\\\sdk\\\\platform-tools\\\\adb.exe -s emulator-5556 shell getprop ro.build.version.sdk)",
+      "PowerShell(& D:\\\\Android\\\\sdk\\\\platform-tools\\\\adb.exe -s emulator-5556 shell \"dumpsys meminfo | head -20\")",
+      "PowerShell(dart run *)",
+      "Bash(flutter *)",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)"
+    ]
+  }
+}

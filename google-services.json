@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "338641788805",
+    "project_id": "carecart-hackathon-5914d",
+    "storage_bucket": "carecart-hackathon-5914d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338641788805:android:b2fd4332a5d5bf7cd4eeec",
+        "android_client_info": {
+          "package_name": "com.example.carecart_hackathon_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338641788805-q49j7jlkpnnvgqdorjticn6tbdu6pg2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carecart_hackathon_project",
+            "certificate_hash": "d107c62eace0771b391ca9566964699fe13beb63"
+          }
+        },
+        {
+          "client_id": "338641788805-4i393kdmnjd9fr2cedsa8tjpj3rclq76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbEcb-IJPei3iE07oKqm0J9P3Vb_pOCIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338641788805-4i393kdmnjd9fr2cedsa8tjpj3rclq76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

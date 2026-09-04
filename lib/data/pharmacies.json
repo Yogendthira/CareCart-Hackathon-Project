@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Apollo Pharmacy - RS Puram",
+    "location": "D.B. Road, RS Puram, Coimbatore",
+    "distance": "1.2 km",
+    "time": "5 mins"
+  },
+  {
+    "name": "Thulasi Pharmacy - RS Puram",
+    "location": "West Venkatasamy Road, RS Puram, Coimbatore",
+    "distance": "1.5 km",
+    "time": "6 mins"
+  },
+  {
+    "name": "MedPlus - Ram Nagar",
+    "location": "Sarojini Street, Ram Nagar, Coimbatore",
+    "distance": "2.1 km",
+    "time": "8 mins"
+  },
+  {
+    "name": "Super Medicals - Gandhipuram",
+    "location": "Cross Cut Road, Gandhipuram, Coimbatore",
+    "distance": "2.8 km",
+    "time": "10 mins"
+  },
+  {
+    "name": "Apollo Pharmacy - Saibaba Colony",
+    "location": "NSR Road, Saibaba Colony, Coimbatore",
+    "distance": "3.2 km",
+    "time": "11 mins"
+  },
+  {
+    "name": "Kumaran Medicals - RS Puram",
+    "location": "RS Puram, Coimbatore",
+    "distance": "1.4 km",
+    "time": "5 mins"
+  },
+  {
+    "name": "MedPlus - Peelamedu",
+    "location": "Bharathi Colony, Peelamedu, Coimbatore",
+    "distance": "5.5 km",
+    "time": "16 mins"
+  },
+  {
+    "name": "Thulasi Pharmacy - Saravanampatti",
+    "location": "Sathy Main Road, Saravanampatti, Coimbatore",
+    "distance": "9.2 km",
+    "time": "22 mins"
+  },
+  {
+    "name": "Apollo Pharmacy - Gandhi Park",
+    "location": "Thadagam Road, Gandhi Park, Coimbatore",
+    "distance": "2.0 km",
+    "time": "7 mins"
+  },
+  {
+    "name": "Ganesh Medicals - Town Hall",
+    "location": "Oppanakara Street, Town Hall, Coimbatore",
+    "distance": "3.5 km",
+    "time": "12 mins"
+  }
+]
